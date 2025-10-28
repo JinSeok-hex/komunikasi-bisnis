@@ -1,4 +1,5 @@
-# answer
+# <p align="center"><b>ANSWER</b></p>
+
 
 1.  Sebagai representasi perusahaan dan sekaligus Public Relations, Tono wajib menerapkan prinsip komunikasi dua arah simetris sebagaimana dikemukakan oleh James E. Grunig. Prinsip ini menekankan pentingnya dialog terbuka antara perusahaan dan para pemangku kepentingan—baik klien maupun investor—untuk mencapai pemahaman dan kepentingan bersama.
 
@@ -49,5 +50,7 @@ Beberapa penerapannya antara lain:
 Sejalan dengan teori James E. Grunig tentang komunikasi dua arah simetris, pemanfaatan saluran komunikasi yang tepat tidak hanya berfungsi menyebarkan informasi, tetapi juga membangun dialog dan kepercayaan antara perusahaan dan publiknya.
 
 
+---
 
-> 
+<p align="center"><b>© JinSeok-hex— 28 · 10 · 2025 at 12:28</b></p>
+
